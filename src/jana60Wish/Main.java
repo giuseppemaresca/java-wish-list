@@ -38,7 +38,7 @@ public class Main {
 		} while (!continuo);
 
 		Collections.sort(listaDiDesideri);
-		System.out.println("La tua lista ordinata è : " + listaDiDesideri);
+		System.out.println("La tua lista ordinata  è : " + listaDiDesideri);
 
 	}
 }
